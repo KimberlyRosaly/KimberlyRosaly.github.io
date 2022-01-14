@@ -1,0 +1,7 @@
+Blog Assigned Topic: Hashes
+
+When I started digging through arrays is when I began to realize how much information can really be dealt with in programming. Suddenly, it became really complex and I started to get overwhelmed. After dealing with examples of 4 levels of nesting within an array, I discovered how disorienting and particular coding really is. Did you miss a comma? Uh oh. Too many commas? Uh oh. Want to access a specific part of the list? UH-OH! Eventually, everything becomes a big mash-up of stuff and if it's difficult to decipher it all: where pieces of information truly belong and how they  relate to each other on top of how to group them together properly and then be able to access these lists in logical ways. I did my best to follow everything perfectly. I did my best to understand. And then you realize there's a better way...
+
+Hashes allow these extensive lists of data to be organized in a more humanly *bearable* format. Instead of dealing with tons of brackets and  indices that can be confusing, like you would with arrays, hashes use keys. Each key name is arbitrary and is paired with a value. 
+
+Hashes are easy to put together and it makes it so much simpler to see how data works with each other because of its ease of access.
